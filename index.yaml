@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  short-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-01T04:01:40.0300221+05:00"
+    description: URL cut service
+    digest: 4af474a76e352a39b27dea61c48b9cba57e20beb9d71ed127ba83266f00c3b54
+    name: short-service
+    type: application
+    urls:
+    - short-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-01T04:01:40.0130235+05:00"
